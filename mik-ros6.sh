@@ -1,9 +1,9 @@
 #!/bin/bash -e
 
 echo
-echo "=== azadrah.org ==="
-echo "=== https://github.com/azadrahorg ==="
-echo "=== MikroTik 6 Installer ==="
+echo "=== info.albicelluler.com ==="
+echo "=== https://github.com/whitevps2/ ==="
+echo "=== MikroTik ROS6 Installer ==="
 echo
 sleep 3
 
