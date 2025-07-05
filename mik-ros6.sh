@@ -7,7 +7,7 @@ echo "=== MikroTik ROS6 Installer ==="
 echo
 sleep 3
 
-wget https://download.mikrotik.com/routeros/6.48.6/chr-6.48.6.img.zip -O chr.img.zip  && \
+wget https://download.mikrotik.com/routeros/6.49.11/chr-6.49.11.img.zip -O chr.img.zip  && \
 gunzip -c chr.img.zip > chr.img  && \
 mount -o loop,offset=512 chr.img /mnt && \
 STORAGE=`lsblk | grep disk | cut -d ' ' -f 1 | head -n 1` && \
