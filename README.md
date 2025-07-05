@@ -41,7 +41,7 @@ For MikroTik 6.49.11 Stable Realese
 For MikroTik 7.8 Stable Realese
 
 ```bash
-  bash -c "$(curl -L https://raw.githubusercontent.com/azadrahorg/Install-MikroTik-CHR-on-VPS/main/mik78.sh)"
+  bash -c "$(curl -L https://raw.githubusercontent.com/whitevps2/mikrotik/main/mik-ros7.sh)"
 ```
 
 After install be sure to turn off the server and turn on again
