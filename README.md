@@ -35,7 +35,7 @@ ip route list | grep default | cut -d' ' -f 3
 For MikroTik 6.49.11 Stable Realese
 
 ```bash
-  bash -c "$(curl -L https://raw.githubusercontent.com/azadrahorg/Install-MikroTik-CHR-on-VPS/main/mik-6486.sh)"
+  bash -c "$(curl -L https://raw.githubusercontent.com/whitevps2/mikrotik/main/mik-ros6.sh)"
 ```
 
 For MikroTik 7.8 Stable Realese
